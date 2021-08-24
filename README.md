@@ -17,4 +17,4 @@
 - Physical Inputs (/dev/video, IP Camera, DVB-T/C/S, ATSC, ISDB-T and DTMB)
 - Channel on demand
 - Record video
-And many other functions (What can GStreamer we also can + Additional)
+### And many other functions (What can GStreamer we also can + Additional)
