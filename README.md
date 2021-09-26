@@ -1,7 +1,7 @@
 ## PLEASE READ WIKI: https://github.com/fastogt/fastocloud_docs/wiki
 
 ![Use Cases](https://raw.githubusercontent.com/fastogt/fastocloud_docs/main/images/use_cases.jpg)
-[FastoCloud Test Website](https://fastocloud.com)
+[FastoCloud Website for Test](https://fastocloud.com)
 
 ## Features:
 - Restream
