@@ -20,4 +20,4 @@
 - Record video
 - Streaming 24/7 to any platform
 - Restream/Record video from any screen
-### And many other functions (What can GStreamer we also can + Additional)
+### And many other functions (What can GStreamer we also can do + Additional)
