@@ -21,4 +21,5 @@
 - Streaming 24/7 to any platform
 - Restream/Record video from any screen
 - Speech to text
+- Merge videos to single stream (Overlays)
 ### And many other functions (What can GStreamer we also can do + Additional)
