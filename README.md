@@ -1,6 +1,6 @@
 ## PLEASE READ WIKI: https://github.com/fastogt/fastocloud_docs/wiki
 
-![Use Cases](https://gitlab.com/fastogt/fastocloud_ott/docs/-/raw/main/images/howto/media/fastocloud.png)
+![Use Cases](https://gitlab.com/fastogt/fastocloud_ott/docs/-/raw/main/images/howto/media/fastocloud_2.png)
 
 
 [FastoCloud Website for Test](https://fastocloud.com)
