@@ -27,6 +27,8 @@
 ### And many other functions (What can GStreamer we also can do + Additional)
 
 
+
+
 ### Kickstart your streaming service with CrocOTT for just $500!
 
 Interested in starting a streaming service but worried about the costs? *CrocOTT* is flipping the script with an affordable $500 start-up cost. 
@@ -35,5 +37,5 @@ Our latest article breaks down the myth of high-cost entry, detailing a customer
 
 Read full article here: https://fastocloud.com/blog_news/Kickstarting_Your_IPTVOTT_Service_with_CrocOTT_for_Just_$500.html
 Try CrocOTT for free: https://crocott.com/form.html?utm_source=github&utm_campaign=iptv-article-2&utm_medium=link
-
+![Kickstart](https://github.com/fastogt/fastocloud_docs/blob/main/images/soc/start_streaming.png?raw=true)
 
