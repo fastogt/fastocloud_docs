@@ -61,6 +61,5 @@ https://crocott.com/form.html?utm_source=github&utm_campaign=iptv-article-2&utm_
 **Don't Miss Out on These Limited-Time Offers!** Transform your media experience with FastoCloud this festive season! 
 
 Book free Demo: https://calendly.com/k_kashtaniuk/30min?utm_source=github&utm_campaign=discount-nov&utm_medium=link
-
 Contact Us: https://fastocloud.com/pricing.html?utm_source=github&utm_campaign=discount-nov&utm_medium=link
 
