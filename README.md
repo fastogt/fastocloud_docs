@@ -44,3 +44,22 @@ https://crocott.com/form.html?utm_source=github&utm_campaign=iptv-article-2&utm_
 
 ![Kickstart](https://github.com/fastogt/fastocloud_docs/blob/main/images/soc/start_streaming.png?raw=true)
 
+
+### FastoCloud Christmas Sale!
+**Zero Setup Fees!** Offer valid until December 1st 
+
+- **Media Server:** Includes GPU plugins, drivers, DRM plugin installation, and WebRTC setup.
+- **Middleware:** Full installation service.
+- **Distribution:** We cover CDN setup, Load Balancing, and WHEP/WHIP setup.
+
+**Exclusive Extra Discounts:**
+
+- **Roku Setup:** Now only $1600! (20% off, VOD ready)
+- **Android TV & Mobile:** Yours for just $400! (Save 20%)
+- **Apple TV:** Stream with ease for only $1200! (20% off)
+
+**Don't Miss Out on These Limited-Time Offers!** Transform your media experience with FastoCloud this festive season! 
+
+Book free Demo: https://calendly.com/k_kashtaniuk/30min?utm_source=github&utm_campaign=discount-nov&utm_medium=link
+Contact Us: https://fastocloud.com/pricing.html?utm_source=github&utm_campaign=discount-nov&utm_medium=link
+
