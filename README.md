@@ -63,3 +63,4 @@ https://crocott.com/form.html?utm_source=github&utm_campaign=iptv-article-2&utm_
 - Book free Demo: https://calendly.com/k_kashtaniuk/30min?utm_source=github&utm_campaign=discount-nov&utm_medium=link
 - Contact Us: https://fastocloud.com/pricing.html?utm_source=github&utm_campaign=discount-nov&utm_medium=link
 
+![FastoCloud Christmas Sale]([https://gitlab.com/fastogt/fastocloud_ott/docs/-/raw/main/images/howto/media/fastocloud_2.png](https://github.com/fastogt/fastocloud_docs/blob/main/images/soc/github_news2.png?raw=true)https://github.com/fastogt/fastocloud_docs/blob/main/images/soc/github_news2.png?raw=true)
