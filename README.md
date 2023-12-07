@@ -64,3 +64,24 @@ https://crocott.com/form.html?utm_source=github&utm_campaign=iptv-article-2&utm_
 - Contact Us: https://fastocloud.com/pricing.html?utm_source=github&utm_campaign=discount-nov&utm_medium=link
 
 ![FastoCloud Christmas Sale](https://github.com/fastogt/fastocloud_docs/blob/main/images/soc/github_news2.png?raw=true)
+
+
+**Elevate Your SaaS Experience with FastoCloud's Superior Customer Support!**
+Why Customer Support Matters: It's not just about software features - it's about seamless user experience and operational efficiency. Choose a provider that values your success as much as you do.
+
+🛠️ **Our Support Options: Tailored for Your Needs**
+- **Email Support (Free):** Got a minor glitch? Email us, and we'll fix it within a day. Plus, keep your software updated with our Update service for $100.
+- **Active Support (Free for 2 Weeks):** New to our software? We'll walk you through every step, ensuring you're all set up and confident in using it.
+- **Urgent Support ($50/hour):** Facing a major hurdle? We're here to dive in and resolve any significant issues, whether it's with our software or external factors.
+- **Subscription Support (Customized):** Ideal for continuous monitoring and instant fixes. Our engineers are always ready to tackle any challenges for you.
+
+**At FastoCloud, we believe robust customer support is key to a great service experience.** We're dedicated to resolving your issues and aligning our support with your business goals.
+
+**Using FastoCloud or considering it?** Let us know! We're here to help you every step of the way.
+
+- Read full article here: https://fastocloud.com/blog_news/Essential_Role_of_Customer_Support_with_FastoCloud.html
+- Discover FastoCloud here: https://fastocloud.com/freetrial.html?utm_source=github&utm_campaign=support1&utm_medium=link
+
+![FastoCloud's Superior Customer Support](https://github.com/fastogt/fastocloud_docs/blob/main/images/soc/github.png?raw=true)
+
+
