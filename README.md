@@ -88,12 +88,12 @@ Why Customer Support Matters: It's not just about software features - it's about
 ### **FastoCloud Holiday Sale!**
 All Offers valid until January 1st!
 
-# **Exclusive Festive Discounts:**
+**Exclusive Festive Discounts:**
 - Android TV & Mobile: Grab it now at just $400! (Save 20%)
 - Apple TV: Stream effortlessly for only $1200! (Save 20%)
 - Roku Setup: Unlock all features including VOD for only $1600! (Save 20%)
 
-# **Zero Setup Fees:**
+**Zero Setup Fees:**
 - Distribution: Includes CDN setup, Load Balancing, and WHEP/WHIP setup.
 - Middleware: Benefit from our full installation service.
 - Media Server: Enjoy GPU plugins, drivers, DRM plugin installation, and WebRTC setup.
