@@ -31,7 +31,7 @@
 
 ## NEWS
 
-### Kickstart your streaming service with CrocOTT for just $500!
+## Kickstart your streaming service with CrocOTT for just $500!
 
 Interested in starting a streaming service but worried about the costs? **CrocOTT** is flipping the script with an affordable $500 start-up cost. 
 
@@ -45,7 +45,7 @@ https://crocott.com/form.html?utm_source=github&utm_campaign=iptv-article-2&utm_
 ![Kickstart](https://github.com/fastogt/fastocloud_docs/blob/main/images/soc/start_streaming.png?raw=true)
 
 
-### FastoCloud Christmas Sale!
+## FastoCloud Christmas Sale!
 **Zero Setup Fees!** Offer valid until December 1st 
 
 - **Media Server:** Includes GPU plugins, drivers, DRM plugin installation, and WebRTC setup.
@@ -66,7 +66,7 @@ https://crocott.com/form.html?utm_source=github&utm_campaign=iptv-article-2&utm_
 ![FastoCloud Christmas Sale](https://github.com/fastogt/fastocloud_docs/blob/main/images/soc/github_news2.png?raw=true)
 
 
-### **Elevate Your SaaS Experience with FastoCloud's Superior Customer Support!**
+## **Elevate Your SaaS Experience with FastoCloud's Superior Customer Support!**
 Why Customer Support Matters: It's not just about software features - it's about seamless user experience and operational efficiency. Choose a provider that values your success as much as you do.
 
 🛠️ **Our Support Options: Tailored for Your Needs**
@@ -85,7 +85,7 @@ Why Customer Support Matters: It's not just about software features - it's about
 ![FastoCloud's Superior Customer Support](https://github.com/fastogt/fastocloud_docs/blob/main/images/soc/github.png?raw=true)
 
 
-### **FastoCloud Holiday Sale!**
+## **FastoCloud Holiday Sale!**
 All Offers valid until January 1st!
 
 **Exclusive Festive Discounts:**
