@@ -85,7 +85,7 @@ Why Customer Support Matters: It's not just about software features - it's about
 ![FastoCloud's Superior Customer Support](https://github.com/fastogt/fastocloud_docs/blob/main/images/soc/github.png?raw=true)
 
 
-### **FastoCloud Holiday Sale! **
+### **FastoCloud Holiday Sale!**
 All Offers valid until January 1st!
 
 **Exclusive Festive Discounts:**
@@ -98,9 +98,10 @@ All Offers valid until January 1st!
 - Middleware: Benefit from our full installation service.
 - Media Server: Enjoy GPU plugins, drivers, DRM plugin installation, and WebRTC setup.
 
-Book a call with us: 
-Discover FastoCloud:
+- **Book a call with us:** https://calendly.com/atopilski/15min?utm_source=github&utm_campaign=discount-dec&utm_medium=link
+- **Discover FastoCloud:** https://fastocloud.com/freetrial.html?utm_source=github&utm_campaign=discount-dec&utm_medium=link
 
+![FastoCloud Holiday Sale!](https://github.com/fastogt/fastocloud_docs/blob/main/images/soc/post_4.png?raw=true)
 
 
 
