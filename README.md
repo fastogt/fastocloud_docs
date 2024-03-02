@@ -106,4 +106,19 @@ All Offers valid until January 1st!
 ![FastoCloud Holiday Sale!](https://github.com/fastogt/fastocloud_docs/blob/main/images/soc/post_4.png?raw=true)
 
 
+## **Landing page for IPTV/OTT business**
+To grab attention and draw in customers effectively, you need a well-designed landing page for IPTV/OTT.
+Let's break down the important parts that make an IPTV/OTT landing page stand out and attract customers easily.
+
+
+ • **Sign in:** Access your account easily.
+ • **Sign up:** Join now for instant access.
+ • **Try 7 Days for Free:** Experience our service commitment-free.
+ • **Browse Packages:** Find the perfect plan for you.
+ • **Watch Anywhere:** Enjoy on iOS, iOS TV, Android, Roku, and web.
+ • **Social Media:** Connect with us for updates and more.
+
+
+![𝗟𝗮𝗻𝗱𝗶𝗻𝗴 𝗽𝗮𝗴𝗲 𝗳𝗼𝗿 𝗜𝗣𝗧𝗩/𝗢𝗧𝗧 𝗯𝘂𝘀𝗶𝗻𝗲𝘀𝘀](https://github.com/fastogt/fastocloud_docs/blob/main/images/iptv/landing.png?raw=true)
+
 
