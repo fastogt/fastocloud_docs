@@ -37,9 +37,9 @@ Interested in starting a streaming service but worried about the costs? **CrocOT
 
 Our latest article breaks down the myth of high-cost entry, detailing a customer's journey from initial setup to market success. Find out how easy and economical it can be to launch your IPTV/OTT service and start making profits.
 
-- Read full article here: 
+- 📌**Read full article here** 
 https://fastocloud.com/blog_news/Kickstarting_Your_IPTVOTT_Service_with_CrocOTT_for_Just_$500.html
-- Try CrocOTT for free: 
+- 📌**Try CrocOTT for free:**
 https://crocott.com/form.html?utm_source=github&utm_campaign=iptv-article-2&utm_medium=link
 
 ![Kickstart](https://github.com/fastogt/fastocloud_docs/blob/main/images/soc/start_streaming.png?raw=true)
@@ -60,8 +60,8 @@ https://crocott.com/form.html?utm_source=github&utm_campaign=iptv-article-2&utm_
 
 **Don't Miss Out on These Limited-Time Offers!** Transform your media experience with FastoCloud this festive season! 
 
-- Book free Demo: https://calendly.com/k_kashtaniuk/30min?utm_source=github&utm_campaign=discount-nov&utm_medium=link
-- Contact Us: https://fastocloud.com/pricing.html?utm_source=github&utm_campaign=discount-nov&utm_medium=link
+- 📌**Book free Demo:** https://calendly.com/k_kashtaniuk/30min?utm_source=github&utm_campaign=discount-nov&utm_medium=link
+- 📌**Contact Us:** https://fastocloud.com/pricing.html?utm_source=github&utm_campaign=discount-nov&utm_medium=link
 
 ![FastoCloud Christmas Sale](https://github.com/fastogt/fastocloud_docs/blob/main/images/soc/github_news2.png?raw=true)
 
@@ -79,8 +79,8 @@ Why Customer Support Matters: It's not just about software features - it's about
 
 **Using FastoCloud or considering it?** Let us know! We're here to help you every step of the way.
 
-- Read full article here: https://fastocloud.com/blog_news/Essential_Role_of_Customer_Support_with_FastoCloud.html
-- Discover FastoCloud here: https://fastocloud.com/freetrial.html?utm_source=github&utm_campaign=support1&utm_medium=link
+- 📌**Read full article here:** https://fastocloud.com/blog_news/Essential_Role_of_Customer_Support_with_FastoCloud.html
+- 📌**Discover FastoCloud here:** https://fastocloud.com/freetrial.html?utm_source=github&utm_campaign=support1&utm_medium=link
 
 ![FastoCloud's Superior Customer Support](https://github.com/fastogt/fastocloud_docs/blob/main/images/soc/github.png?raw=true)
 
