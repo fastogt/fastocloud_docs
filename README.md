@@ -134,8 +134,8 @@ Our layouts are now available for LG and Samsung users! With OTT/IPTV skyrocketi
 As LG and Samsung continue to gain global recognition, we're right there with them, keeping pace with the latest trends in technology and entertainment.
 
 
-📌**𝗕𝗼𝗼𝗸 𝗮 𝗰𝗮𝗹𝗹 𝘄𝗶𝘁𝗵 𝘂𝘀:** https://calendly.com/atopilski/15min?month=2024-05?utm_source=github&utm_campaign=lg-samsaung&utm_medium=link
-📌**𝗗𝗶𝘀𝗰𝗼𝘃𝗲𝗿 𝗙𝗮𝘀𝘁𝗼𝗖𝗹𝗼𝘂𝗱:** https://crocott.com/form.html?utm_source=github&utm_campaign=lg-samsaung&utm_medium=link
+- 📌**𝗕𝗼𝗼𝗸 𝗮 𝗰𝗮𝗹𝗹 𝘄𝗶𝘁𝗵 𝘂𝘀:** https://calendly.com/atopilski/15min?month=2024-05?utm_source=github&utm_campaign=lg-samsaung&utm_medium=link
+- 📌**𝗗𝗶𝘀𝗰𝗼𝘃𝗲𝗿 𝗙𝗮𝘀𝘁𝗼𝗖𝗹𝗼𝘂𝗱:** https://crocott.com/form.html?utm_source=github&utm_campaign=lg-samsaung&utm_medium=link
 
 #TVLayouts #LG #Samsung
 
