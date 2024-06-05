@@ -140,3 +140,39 @@ As LG and Samsung continue to gain global recognition, we're right there with th
 
 
 ![𝗟𝗮𝗻𝗱𝗶𝗻𝗴 𝗽𝗮𝗴𝗲 𝗳𝗼𝗿 𝗜𝗣𝗧𝗩/𝗢𝗧𝗧 𝗯𝘂𝘀𝗶𝗻𝗲𝘀𝘀](https://github.com/fastogt/fastocloud_docs/blob/main/images/iptv/LG_and_Samsung.png?raw=true)
+
+
+
+
+##🚀 *𝗪𝗲'𝗿𝗲 𝘁𝗵𝗿𝗶𝗹𝗹𝗲𝗱 𝘁𝗼 𝘀𝗵𝗮𝗿𝗲 𝘁𝗵𝗮𝘁 𝘄𝗲'𝗿𝗲 𝗶𝗻 𝘁𝗵𝗲 𝗽𝗿𝗼𝗰𝗲𝘀𝘀 𝗼𝗳 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗶𝗻𝗴 𝗮 𝗖𝗖𝗧𝗩 𝗮𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻.*
+Here's a sneak peek at some features:
+𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱: Keep an eagle eye view on all your connected cameras.
+𝗖𝗮𝗺𝗲𝗿𝗮𝘀: Seamlessly access live feeds and recordings from all your CCTV cameras, ensuring real-time monitoring and security.
+𝗠𝗮𝗽: Visualize camera locations on a map interface for easy navigation and management.
+𝗡𝗼𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻: Stay informed with instant alerts and notifications for any suspicious activities or events.
+𝗨𝘀𝗲𝗿𝘀: Manage access rights and permissions for different users, ensuring secure and efficient surveillance management.
+𝗦𝗲𝘁𝘁𝗶𝗻𝗴𝘀: Customize your CCTV system according to your preferences, including resolution, recording duration, and more.
+𝗖𝗵𝗮𝗻𝗴𝗶𝗻𝗴 𝘁𝗵𝗲 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲: Easily switch between multiple languages for user-friendly accessibility and convenience.
+𝗣𝗹𝗮𝘆𝗲𝗿𝘀: Streams from any device are easily accessible.
+📌 𝗕𝗼𝗼𝗸 𝗮 𝗰𝗮𝗹𝗹 𝘄𝗶𝘁𝗵 𝘂𝘀: 
+📌𝗗𝗶𝘀𝗰𝗼𝘃𝗲𝗿 𝗙𝗮𝘀𝘁𝗼𝗘𝘆𝗲:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![CCTV](https://github.com/fastogt/fastocloud_docs/blob/main/images/cctv/cctv.png?raw=true)
