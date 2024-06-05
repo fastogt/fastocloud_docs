@@ -144,7 +144,7 @@ As LG and Samsung continue to gain global recognition, we're right there with th
 
 
 
-##*𝗪𝗲'𝗿𝗲 𝘁𝗵𝗿𝗶𝗹𝗹𝗲𝗱 𝘁𝗼 𝘀𝗵𝗮𝗿𝗲 𝘁𝗵𝗮𝘁 𝘄𝗲'𝗿𝗲 𝗶𝗻 𝘁𝗵𝗲 𝗽𝗿𝗼𝗰𝗲𝘀𝘀 𝗼𝗳 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗶𝗻𝗴 𝗮 𝗖𝗖𝗧𝗩 𝗮𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻.*
+## *𝗪𝗲'𝗿𝗲 𝘁𝗵𝗿𝗶𝗹𝗹𝗲𝗱 𝘁𝗼 𝘀𝗵𝗮𝗿𝗲 𝘁𝗵𝗮𝘁 𝘄𝗲'𝗿𝗲 𝗶𝗻 𝘁𝗵𝗲 𝗽𝗿𝗼𝗰𝗲𝘀𝘀 𝗼𝗳 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗶𝗻𝗴 𝗮 𝗖𝗖𝗧𝗩 𝗮𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻.*
 Here's a sneak peek at some features:
 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱: Keep an eagle eye view on all your connected cameras.
 𝗖𝗮𝗺𝗲𝗿𝗮𝘀: Seamlessly access live feeds and recordings from all your CCTV cameras, ensuring real-time monitoring and security.
