@@ -99,8 +99,8 @@ All Offers valid until January 1st!
 - Media Server: Enjoy GPU plugins, drivers, DRM plugin installation, and WebRTC setup.
 
 
-- 📌**Book a call with us:** https://calendly.com/atopilski/15min?utm_source=github&utm_campaign=discount-dec&utm_medium=link
-- 📌**Discover FastoCloud:** https://fastocloud.com/freetrial.html?utm_source=github&utm_campaign=discount-dec&utm_medium=link
+📌**Book a call with us:** https://calendly.com/atopilski/15min?utm_source=github&utm_campaign=discount-dec&utm_medium=link
+📌**Discover FastoCloud:** https://fastocloud.com/freetrial.html?utm_source=github&utm_campaign=discount-dec&utm_medium=link
 
 ![FastoCloud Holiday Sale!](https://github.com/fastogt/fastocloud_docs/blob/main/images/soc/post_4.png?raw=true)
 
