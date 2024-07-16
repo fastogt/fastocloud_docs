@@ -174,7 +174,7 @@ As LG and Samsung continue to gain global recognition, we're right there with th
 
 You can utilize our players from the stores, however, please note that you will need our Middleware.
 
-It is available from the 1.13.0 version which is available on our website.
+It is available from the 1.13.0 version which is available on our website (https://fastocloud.com/downloads.html).
 
 You have the option to set up the panel yourself, or our team can do it for you at a discounted price of $100.
 
