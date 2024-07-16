@@ -100,6 +100,7 @@ All Offers valid until January 1st!
 
 
 📌**Book a call with us:** https://calendly.com/atopilski/15min?utm_source=github&utm_campaign=discount-dec&utm_medium=link
+
 📌**Discover FastoCloud:** https://fastocloud.com/freetrial.html?utm_source=github&utm_campaign=discount-dec&utm_medium=link
 
 ![FastoCloud Holiday Sale!](https://github.com/fastogt/fastocloud_docs/blob/main/images/soc/post_4.png?raw=true)
