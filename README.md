@@ -157,8 +157,8 @@ As LG and Samsung continue to gain global recognition, we're right there with th
 - **𝗖𝗵𝗮𝗻𝗴𝗶𝗻𝗴 𝘁𝗵𝗲 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲:** Easily switch between multiple languages for user-friendly accessibility and convenience.
 - **𝗣𝗹𝗮𝘆𝗲𝗿𝘀:** Streams from any device are easily accessible.
   
-📌 𝗕𝗼𝗼𝗸 𝗮 𝗰𝗮𝗹𝗹 𝘄𝗶𝘁𝗵 𝘂𝘀: https://calendly.com/atopilski/15min?month=2024-06?utm_source=github&utm_campaign=cctv&utm_medium=link
-📌 𝗗𝗶𝘀𝗰𝗼𝘃𝗲𝗿 𝗙𝗮𝘀𝘁𝗼𝗘𝘆𝗲: https://fastowatch.com/?utm_source=github&utm_campaign=cctv&utm_medium=link
+- 📌 𝗕𝗼𝗼𝗸 𝗮 𝗰𝗮𝗹𝗹 𝘄𝗶𝘁𝗵 𝘂𝘀: https://calendly.com/atopilski/15min?month=2024-06?utm_source=github&utm_campaign=cctv&utm_medium=link
+- 📌 𝗗𝗶𝘀𝗰𝗼𝘃𝗲𝗿 𝗙𝗮𝘀𝘁𝗼𝗘𝘆𝗲: https://fastowatch.com/?utm_source=github&utm_campaign=cctv&utm_medium=link
 
 
 ![CCTV](https://github.com/fastogt/fastocloud_docs/blob/main/images/cctv/cctv.png?raw=true)
