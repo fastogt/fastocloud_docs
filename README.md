@@ -181,21 +181,20 @@ You have the option to set up the panel yourself, or our team can do it for you 
 Once the panel is set up, we can add your brand to this combobox at no additional cost. Therefore, you will need just a server and $100 to proceed. Let's get started!
 
 **𝗧𝗵𝗶𝘀 𝗳𝗲𝗮𝘁𝘂𝗿𝗲 𝗶𝘀 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗮𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲 𝗼𝗻 𝘁𝗵𝗲 𝗳𝗼𝗹𝗹𝗼𝘄𝗶𝗻𝗴 𝗽𝗹𝗮𝘁𝗳𝗼𝗿𝗺𝘀:**
-	•	Web
-	•	Android TV
-	•	Android Mobile
-	•	Android Tab
-	•	iPhone
-	•	iPad
+- Web
+- Android TV
+- Android Mobile
+- Android Tab
+- iPhone
+- iPad
 
 P.S. Please remember there is a fee of $0.10 per connection per month as your usage of our panels grows.
 
 
 📌 𝗕𝗼𝗼𝗸 𝗮 𝗰𝗮𝗹𝗹 𝘄𝗶𝘁𝗵 𝘂𝘀: https://calendly.com/atopilski/15min?month=2024-06?utm_source=discord&utm_campaign=iptv/ott-solution&utm_medium=link
+
 📌 𝗚𝗲𝘁 𝗪𝗵𝗶𝘁𝗲𝗹𝗮𝗯𝗲𝗹: https://crocott.com/form.html?utm_source=discord&utm_campaign=iptv/ott-solution&utm_medium=link
 
 
 
-
-
-(https://github.com/fastogt/fastocloud_docs/blob/main/images/ott/100_brands.png?raw=true)
+![𝗜𝗣𝗧𝗩/𝗢𝗧𝗧](https://github.com/fastogt/fastocloud_docs/blob/main/images/ott/100_brands.png?raw=true)
