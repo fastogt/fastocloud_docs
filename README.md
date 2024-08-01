@@ -1,4 +1,4 @@
-## PLEASE READ WIKI: https://github.com/fastogt/fastocloud_docs/wiki
+![image](https://github.com/user-attachments/assets/3e7e9ce7-0de8-42d5-9a9b-f768bd10129b)## PLEASE READ WIKI: https://github.com/fastogt/fastocloud_docs/wiki
 
 ![Use Cases](https://gitlab.com/fastogt/fastocloud_ott/docs/-/raw/main/images/howto/media/fastocloud_2.png)
 
@@ -196,5 +196,40 @@ P.S. Please remember there is a fee of $0.10 per connection per month as your us
 📌 𝗚𝗲𝘁 𝗪𝗵𝗶𝘁𝗲𝗹𝗮𝗯𝗲𝗹: https://crocott.com/form.html?utm_source=discord&utm_campaign=iptv/ott-solution&utm_medium=link
 
 
-
 ![𝗜𝗣𝗧𝗩/𝗢𝗧𝗧](https://github.com/fastogt/fastocloud_docs/blob/main/images/ott/100_brands.png?raw=true)
+
+
+
+## **𝗦𝗽𝗲𝗰𝗶𝗮𝗹 𝗢𝗳𝗳𝗲𝗿: 𝗣𝗮𝗻𝗲𝗹 𝗜𝗻𝘀𝘁𝗮𝗹𝗹𝗮𝘁𝗶𝗼𝗻 𝗳𝗼𝗿 𝗢𝗻𝗹𝘆 $𝟭𝟬𝟬 𝗶𝗻𝘀𝘁𝗲𝗮𝗱 𝗼𝗳 $𝟯𝟬𝟬!**
+## **𝗘𝘅𝗰𝗹𝘂𝘀𝗶𝘃𝗲 𝗱𝗲𝗮𝗹 𝘃𝗮𝗹𝗶𝗱 𝗳𝗿𝗼𝗺 𝗔𝘂𝗴𝘂𝘀𝘁 𝟭 𝘁𝗼 𝗔𝘂𝗴𝘂𝘀𝘁 𝟴!**
+
+Hey there! Are you interested in launching your own IPTV or OTT service? We've got a special offer just for you! For one week, we're slashing our panel installation price from $300 to only $100. It's a great deal to help you kickstart your business! At FastoCloud, we're committed to supporting you every step of the way as you enter the IPTV/OTT sphere.
+
+**𝗪𝗵𝗮𝘁 𝘆𝗼𝘂’𝗹𝗹 𝗻𝗲𝗲𝗱:**
+
+- **𝗦𝘁𝗲𝗽 𝟭: 𝗖𝗼𝗻𝘁𝗲𝗻𝘁 𝗔𝗰𝗾𝘂𝗶𝘀𝗶𝘁𝗶𝗼𝗻**
+Your service needs a range of video content. Whether it's live broadcasts, series, or movies, obtaining the right to stream this content is your first step.
+
+- **𝗦𝘁𝗲𝗽 𝟮: 𝗘𝗹𝗲𝗰𝘁𝗿𝗼𝗻𝗶𝗰 𝗣𝗿𝗼𝗴𝗿𝗮𝗺 𝗚𝘂𝗶𝗱𝗲 (𝗘𝗣𝗚)**
+An EPG is your viewers' roadmap to what’s showing on your service. This tool is essential for users to browse through schedules and find their favorite programs.
+
+- **𝗦𝘁𝗲𝗽 𝟯: 𝗦𝗲𝗿𝘃𝗲𝗿 𝗜𝗻𝗳𝗿𝗮𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲**
+To deliver your content to viewers, you’ll require servers. At FastoCloud, we can suggest where to get this infrastructure for $25 per month, ensuring a high-speed 10Gbit/s connection for seamless streaming or you can use your own infrastructure here requirements.
+
+- **Step 4: Domain Registration**
+Your online identity begins with a domain name. This web address will lead your audience to your streaming service. Registering one typically costs around $12.
+
+📌 𝗦𝗲𝗲 𝗵𝗼𝘄 𝗶𝘁 𝘄𝗼𝗿𝗸𝘀! [https://calendly.com/atopilski/15min?month=2024-06?utm_source=discord&utm_campaign=iptv/ott-solution&utm_medium=link](http://player.crocott.com/?utm_source=github&utm_campaign=discount-aug&utm_medium=link)
+
+📌 𝗕𝗼𝗼𝗸 𝗮 𝗰𝗮𝗹𝗹 𝘄𝗶𝘁𝗵 𝘂𝘀: [https://crocott.com/form.html?utm_source=discord&utm_campaign=iptv/ott-solution&utm_medium=link](https://calendly.com/atopilski?utm_source=github&utm_campaign=discount-aug&utm_medium=link)
+
+
+![DISCOUNT]([https://github.com/fastogt/fastocloud_docs/blob/main/images/ott/100_brands.png?raw=true](https://github.com/fastogt/fastocloud_docs/blob/main/images/iptv/disco100.png?raw=true))
+
+
+
+
+
+
+
+
