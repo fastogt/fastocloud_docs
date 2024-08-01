@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3e7e9ce7-0de8-42d5-9a9b-f768bd10129b)## PLEASE READ WIKI: https://github.com/fastogt/fastocloud_docs/wiki
+## PLEASE READ WIKI: https://github.com/fastogt/fastocloud_docs/wiki
 
 ![Use Cases](https://gitlab.com/fastogt/fastocloud_ott/docs/-/raw/main/images/howto/media/fastocloud_2.png)
 
@@ -224,7 +224,7 @@ Your online identity begins with a domain name. This web address will lead your 
 📌 𝗕𝗼𝗼𝗸 𝗮 𝗰𝗮𝗹𝗹 𝘄𝗶𝘁𝗵 𝘂𝘀: [https://crocott.com/form.html?utm_source=discord&utm_campaign=iptv/ott-solution&utm_medium=link](https://calendly.com/atopilski?utm_source=github&utm_campaign=discount-aug&utm_medium=link)
 
 
-[DISCOUNT](https://github.com/fastogt/fastocloud_docs/blob/main/images/iptv/disco100.png?raw=true)
+![image](https://github.com/user-attachments/assets/3e7e9ce7-0de8-42d5-9a9b-f768bd10129b)
 
 
 
