@@ -29,7 +29,7 @@
 
 
 
-## NEWS
+# NEWS
 
 ## Kickstart your streaming service with CrocOTT for just $500!
 
@@ -46,7 +46,7 @@ https://crocott.com/form.html?utm_source=github&utm_campaign=iptv-article-2&utm_
 ![Kickstart](https://github.com/fastogt/fastocloud_docs/blob/main/images/soc/start_streaming.png?raw=true)
 
 
-## FastoCloud Christmas Sale!
+# FastoCloud Christmas Sale!
 **Zero Setup Fees!** Offer valid until December 1st 
 
 - **Media Server:** Includes GPU plugins, drivers, DRM plugin installation, and WebRTC setup.
@@ -68,7 +68,7 @@ https://crocott.com/form.html?utm_source=github&utm_campaign=iptv-article-2&utm_
 ![FastoCloud Christmas Sale](https://github.com/fastogt/fastocloud_docs/blob/main/images/soc/github_news2.png?raw=true)
 
 
-## **Elevate Your SaaS Experience with FastoCloud's Superior Customer Support!**
+# **Elevate Your SaaS Experience with FastoCloud's Superior Customer Support!**
 Why Customer Support Matters: It's not just about software features - it's about seamless user experience and operational efficiency. Choose a provider that values your success as much as you do.
 
 🛠️ **Our Support Options: Tailored for Your Needs**
@@ -88,7 +88,7 @@ Why Customer Support Matters: It's not just about software features - it's about
 ![FastoCloud's Superior Customer Support](https://github.com/fastogt/fastocloud_docs/blob/main/images/soc/github.png?raw=true)
 
 
-## **FastoCloud Holiday Sale!**
+# **FastoCloud Holiday Sale!**
 All Offers valid until January 1st!
 
 **Exclusive Festive Discounts:**
@@ -109,7 +109,7 @@ All Offers valid until January 1st!
 ![FastoCloud Holiday Sale!](https://github.com/fastogt/fastocloud_docs/blob/main/images/soc/post_4.png?raw=true)
 
 
-## **Landing page for IPTV/OTT business**
+# **Landing page for IPTV/OTT business**
 To grab attention and draw in customers effectively, you need a well-designed landing page for IPTV/OTT.
 Let's break down the important parts that make an IPTV/OTT landing page stand out and attract customers easily.
 
@@ -127,7 +127,7 @@ Have a glance - https://landing.crocott.com/
 ![𝗟𝗮𝗻𝗱𝗶𝗻𝗴 𝗽𝗮𝗴𝗲 𝗳𝗼𝗿 𝗜𝗣𝗧𝗩/𝗢𝗧𝗧 𝗯𝘂𝘀𝗶𝗻𝗲𝘀𝘀](https://github.com/fastogt/fastocloud_docs/blob/main/images/iptv/landing.png?raw=true)
 
 
-## **Our layouts are now available for LG and Samsung!**
+# **Our layouts are now available for LG and Samsung!**
 
 🎉 Exciting News! 
 
@@ -149,7 +149,7 @@ As LG and Samsung continue to gain global recognition, we're right there with th
 
 
 
-## **𝗪𝗲'𝗿𝗲 𝘁𝗵𝗿𝗶𝗹𝗹𝗲𝗱 𝘁𝗼 𝘀𝗵𝗮𝗿𝗲 𝘁𝗵𝗮𝘁 𝘄𝗲'𝗿𝗲 𝗶𝗻 𝘁𝗵𝗲 𝗽𝗿𝗼𝗰𝗲𝘀𝘀 𝗼𝗳 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗶𝗻𝗴 𝗮 𝗖𝗖𝗧𝗩 𝗮𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻.**
+# **𝗪𝗲'𝗿𝗲 𝘁𝗵𝗿𝗶𝗹𝗹𝗲𝗱 𝘁𝗼 𝘀𝗵𝗮𝗿𝗲 𝘁𝗵𝗮𝘁 𝘄𝗲'𝗿𝗲 𝗶𝗻 𝘁𝗵𝗲 𝗽𝗿𝗼𝗰𝗲𝘀𝘀 𝗼𝗳 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗶𝗻𝗴 𝗮 𝗖𝗖𝗧𝗩 𝗮𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻.**
 
 ### **Here's a sneak peek at some features:**
 
@@ -170,7 +170,7 @@ As LG and Samsung continue to gain global recognition, we're right there with th
 ![CCTV](https://github.com/fastogt/fastocloud_docs/blob/main/images/cctv/cctv.png?raw=true)
 
 
-## **𝗦𝘁𝗮𝗿𝘁 𝘆𝗼𝘂𝗿 𝗜𝗣𝗧𝗩/𝗢𝗧𝗧 𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻 𝗳𝗼𝗿 𝟭𝟬𝟬$ 𝘄𝗶𝘁𝗵 𝗼𝘂𝗿 𝗽𝗹𝗮𝘆𝗲𝗿𝘀!**
+# **𝗦𝘁𝗮𝗿𝘁 𝘆𝗼𝘂𝗿 𝗜𝗣𝗧𝗩/𝗢𝗧𝗧 𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻 𝗳𝗼𝗿 𝟭𝟬𝟬$ 𝘄𝗶𝘁𝗵 𝗼𝘂𝗿 𝗽𝗹𝗮𝘆𝗲𝗿𝘀!**
 
 You can utilize our players from the stores, however, please note that you will need our Middleware.
 
@@ -200,8 +200,8 @@ P.S. Please remember there is a fee of $0.10 per connection per month as your us
 
 
 
-## **𝗦𝗽𝗲𝗰𝗶𝗮𝗹 𝗢𝗳𝗳𝗲𝗿: 𝗣𝗮𝗻𝗲𝗹 𝗜𝗻𝘀𝘁𝗮𝗹𝗹𝗮𝘁𝗶𝗼𝗻 𝗳𝗼𝗿 𝗢𝗻𝗹𝘆 $𝟭𝟬𝟬  𝗶𝗻𝘀𝘁𝗲𝗮𝗱  𝗼𝗳  $𝟯𝟬𝟬!**
-# **𝗘𝘅𝗰𝗹𝘂𝘀𝗶𝘃𝗲 𝗱𝗲𝗮𝗹 𝘃𝗮𝗹𝗶𝗱 𝗳𝗿𝗼𝗺 𝗔𝘂𝗴𝘂𝘀𝘁 𝟭 𝘁𝗼 𝗔𝘂𝗴𝘂𝘀𝘁 𝟴!**
+# **𝗦𝗽𝗲𝗰𝗶𝗮𝗹 𝗢𝗳𝗳𝗲𝗿: 𝗣𝗮𝗻𝗲𝗹 𝗜𝗻𝘀𝘁𝗮𝗹𝗹𝗮𝘁𝗶𝗼𝗻 𝗳𝗼𝗿 𝗢𝗻𝗹𝘆 $𝟭𝟬𝟬  𝗶𝗻𝘀𝘁𝗲𝗮𝗱  𝗼𝗳  $𝟯𝟬𝟬!**
+## **𝗘𝘅𝗰𝗹𝘂𝘀𝗶𝘃𝗲 𝗱𝗲𝗮𝗹 𝘃𝗮𝗹𝗶𝗱 𝗳𝗿𝗼𝗺 𝗔𝘂𝗴𝘂𝘀𝘁 𝟭 𝘁𝗼 𝗔𝘂𝗴𝘂𝘀𝘁 𝟴!**
 
 Hey there! Are you interested in launching your own IPTV or OTT service? We've got a special offer just for you! For one week, we're slashing our panel installation price from $300 to only $100. It's a great deal to help you kickstart your business! At FastoCloud, we're committed to supporting you every step of the way as you enter the IPTV/OTT sphere.
 
