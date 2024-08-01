@@ -200,7 +200,7 @@ P.S. Please remember there is a fee of $0.10 per connection per month as your us
 
 
 
-# **𝗦𝗽𝗲𝗰𝗶𝗮𝗹 𝗢𝗳𝗳𝗲𝗿: 𝗣𝗮𝗻𝗲𝗹 𝗜𝗻𝘀𝘁𝗮𝗹𝗹𝗮𝘁𝗶𝗼𝗻 𝗳𝗼𝗿 𝗢𝗻𝗹𝘆 $𝟭𝟬𝟬 𝗶𝗻𝘀𝘁𝗲𝗮𝗱 𝗼𝗳 $𝟯𝟬𝟬!**
+# **Special Offer: Panel Installation for Only $100 instead of $300!**
 ## **𝗘𝘅𝗰𝗹𝘂𝘀𝗶𝘃𝗲 𝗱𝗲𝗮𝗹 𝘃𝗮𝗹𝗶𝗱 𝗳𝗿𝗼𝗺 𝗔𝘂𝗴𝘂𝘀𝘁 𝟭 𝘁𝗼 𝗔𝘂𝗴𝘂𝘀𝘁 𝟴!**
 
 Hey there! Are you interested in launching your own IPTV or OTT service? We've got a special offer just for you! For one week, we're slashing our panel installation price from $300 to only $100. It's a great deal to help you kickstart your business! At FastoCloud, we're committed to supporting you every step of the way as you enter the IPTV/OTT sphere.
