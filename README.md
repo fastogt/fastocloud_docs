@@ -228,8 +228,22 @@ Your online identity begins with a domain name. This web address will lead your 
 
 
 
+# 🚀 **𝐄𝐱𝐜𝐢𝐭𝐢𝐧𝐠 𝐍𝐞𝐰𝐬 𝐟𝐫𝐨𝐦 𝐎𝐮𝐫 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐓𝐞𝐚𝐦!** 🚀
 
+We're excited to share that we've begun integrating the WHEP protocol into our players! 🛠️ This innovative now into the testing. 
 
+**𝐎𝐮𝐫 𝐩𝐥𝐚𝐲𝐞𝐫𝐬 𝐚𝐫𝐞 𝐚𝐯𝐚𝐢𝐥𝐚𝐛𝐥𝐞 𝐨𝐧 𝐭𝐡𝐞 𝐟𝐨𝐥𝐥𝐨𝐰𝐢𝐧𝐠 𝐩𝐥𝐚𝐭𝐟𝐨𝐫𝐦𝐬:**
+- Phone
+- iPad
+- Android
+- Android TV
+- Desktop
+
+If you're eager to give it a try, we invite you to join our beta test.
+
+Please reach out to us via email – **𝐬𝐮𝐩𝐩𝐨𝐫𝐭@𝐟𝐚𝐬𝐭𝐨𝐜𝐥𝐨𝐮𝐝.𝐜𝐨𝐦**
+
+![image]([https://github.com/user-attachments/assets/3e7e9ce7-0de8-42d5-9a9b-f768bd10129b](https://github.com/fastogt/fastocloud_docs/blob/main/images/mixed/whep.png?raw=true)
 
 
 
