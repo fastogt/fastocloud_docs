@@ -243,7 +243,7 @@ If you're eager to give it a try, we invite you to join our beta test.
 
 Please reach out to us via email – **𝐬𝐮𝐩𝐩𝐨𝐫𝐭@𝐟𝐚𝐬𝐭𝐨𝐜𝐥𝐨𝐮𝐝.𝐜𝐨𝐦**
 
-![image]([https://github.com/user-attachments/assets/3e7e9ce7-0de8-42d5-9a9b-f768bd10129b](https://github.com/fastogt/fastocloud_docs/blob/main/images/mixed/whep.png?raw=true)
+![image](https://github.com/fastogt/fastocloud_docs/blob/main/images/mixed/whep.png?raw=true)
 
 
 
